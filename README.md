@@ -35,10 +35,12 @@ git clone https://github.com/sergiolfaria/UaiZapReact.git
 
 Navegue até a pasta do projeto:
 
-cd uaizap
+cd UaiZapReact
+
 Instale as dependências do projeto:
 
 npm install
+
 Inicie o aplicativo:
 
 npm start
