@@ -32,6 +32,7 @@ Para iniciar o projeto em sua máquina, siga os passos abaixo ou utilize o link 
 Clone o repositório para o seu computador:
 
 git clone https://github.com/sergiolfaria/UaiZapReact.git
+
 Navegue até a pasta do projeto:
 
 cd uaizap
